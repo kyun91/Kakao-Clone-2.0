@@ -1,4 +1,5 @@
 .status-bar{
+    /* status-bar 하위에 있는 요소들이 가로로 정렬 */
     display: flex;
     justify-content: space-between;
     margin-bottom: 32px;
